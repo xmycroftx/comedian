@@ -2,7 +2,7 @@
 A tool that tells jokes about a browser
 
 ## what is a joke?
-A joke is a partial truth that a browser is under no obligation to tell the truth about.
+A joke is a property that a browser is under no obligation to tell the truth about.
 
 By default, we expect jokes to be mostly true, but as time goes on and efforts to improve Privacy of browsers identity becomes harder to ascertain.  In retrospect, the truthiness of these values will trend towards absurdity, and so -- become jokes.
 
